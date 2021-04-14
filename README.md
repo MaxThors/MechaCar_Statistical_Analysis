@@ -13,16 +13,24 @@ Looking at the first T-Test we ran where we tested the PSI across all manufactur
 ![](Resources/All_Lots.PNG)
 
 ### Lot 1
-Looking at the second T-Test we ran where we tested the PSI across Lot 1 to see if the PSI was statistically different from the population mean of 1,500 PSI. As you can see below, the mean of Lot 1 is  1,500 PSI along with a p-value of 1. Therefore, we cannot reject the null hypothesis and say the mean PSI of Lot 1 is statistically different than 1,500 PSI. Here are the results of the t-test:
+Looking at the second T-Test we ran where we tested the PSI across Lot 1 to see if the PSI was statistically different from the population mean of 1,500 PSI. As you can see below, the mean of Lot 1 is 1,500 PSI along with a p-value of 1. Therefore, we cannot reject the null hypothesis and say the mean PSI of Lot 1 is statistically different than 1,500 PSI. Here are the results of the t-test:
 ![](Resources/Lot1.PNG)
 
 ### Lot 2
-Looking at the third T-Test we ran where we tested the PSI across Lot 2 to see if the PSI was statistically different from the population mean of 1,500 PSI. As you can see below, the mean of Lot 2 is  1,500.2 PSI along with a p-value of 0.6072. Therefore, we cannot reject the null hypothesis and say the mean PSI of Lot 2 is statistically different than 1,500 PSI. Here are the results of the t-test:
+Looking at the third T-Test we ran where we tested the PSI across Lot 2 to see if the PSI was statistically different from the population mean of 1,500 PSI. As you can see below, the mean of Lot 2 is 1,500.2 PSI along with a p-value of 0.6072. Therefore, we cannot reject the null hypothesis and say the mean PSI of Lot 2 is statistically different than 1,500 PSI. Here are the results of the t-test:
 ![](Resources/Lot2.PNG)
 
 ### Lot 3
-Looking at the fourth T-Test we ran where we tested the PSI across Lot 3 to see if the PSI was statistically different from the population mean of 1,500 PSI. As you can see below, the mean of Lot 3 is  1,500 PSI along with a p-value of 0.04168. Therefore, we can reject the null hypothesis and say the mean across all three lots is statistically different than 1,500 PSI. Here are the results of the t-test:
+Looking at the fourth T-Test we ran where we tested the PSI across Lot 3 to see if the PSI was statistically different from the population mean of 1,500 PSI. As you can see below, the mean of Lot 3 is 1,496.14 PSI along with a p-value of 0.04168. Therefore, we can reject the null hypothesis and say the mean across all three lots is statistically different than 1,500 PSI. Here are the results of the t-test:
 ![](Resources/Lot3.PNG)
+
+## Study Design: MechaCar vs Competition
+Metrics: For this study, I would study compact cars and the vehicle cost, city fuel efficiency, and maintenence cost. Once I found the results, I would then do a more in depth test on other metrics.
+Null Hypothesis: Th difference in the mean is 0 between MechaCar and the competition for any of these three metrics.
+Alternative Hypothesis: The difference in the mean is not 0 between MechaCar and the competition for at least one of these three metrics.
+Type of Test: I would use a 2-sample t-test because I am taking samples from both MechaCar and the competitor and finding the means.
+Data: I would need reliable data from both sources for all of the metrics. It would have to be large enough of a sample to be able to test and all of the data would have to be in the same form.
+
 
 
 
