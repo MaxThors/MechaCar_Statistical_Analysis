@@ -9,4 +9,4 @@ If you look at the total summary of all the lots, the variance is 69.3 pounds pe
 
 ## T-Tests on Suspension Coils
 Looking at the first T-Test we ran where we tested the PSI across all manufacturing lots to see if the PSI was statistically different from the population mean of 1,500 PSI. As you can see below, the mean of all three lots was 1,498.78 PSI along with a p-value of 0.06028. Therefore, we cannot reject the null hypothesis and say the mean across all three lots is statistically different than 1,500 PSI. Here are the results of the t-test:
-![](Resourses/All_Lots.PNG)
+![](Resources/All_Lots.PNG)
