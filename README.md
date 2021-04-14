@@ -25,11 +25,16 @@ Looking at the fourth T-Test we ran where we tested the PSI across Lot 3 to see 
 ![](Resources/Lot3.PNG)
 
 ## Study Design: MechaCar vs Competition
-Metrics: For this study, I would study compact cars and the vehicle cost, city fuel efficiency, and maintenence cost. Once I found the results, I would then do a more in depth test on other metrics.
-Null Hypothesis: Th difference in the mean is 0 between MechaCar and the competition for any of these three metrics.
-Alternative Hypothesis: The difference in the mean is not 0 between MechaCar and the competition for at least one of these three metrics.
-Type of Test: I would use a 2-sample t-test because I am taking samples from both MechaCar and the competitor and finding the means.
-Data: I would need reliable data from both sources for all of the metrics. It would have to be large enough of a sample to be able to test and all of the data would have to be in the same form.
+#### Metrics 
+For this study, I would study compact cars and the vehicle cost, city fuel efficiency, and maintenence cost. Once I found the results, I would then do a more in depth test on other metrics.
+#### Null Hypothesis 
+The difference in the mean is 0 between MechaCar and the competition for any of these three metrics.
+#### Alternative Hypothesis 
+The difference in the mean is not 0 between MechaCar and the competition for at least one of these three metrics.
+#### Type of Test 
+I would use a 2-sample t-test because I am taking samples from both MechaCar and the competitor and finding the means.
+#### Data 
+I would need reliable data from both sources for all of the metrics. It would have to be large enough of a sample to be able to test and all of the data would have to be in the same form.
 
 
 
