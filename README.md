@@ -6,3 +6,7 @@ According to our summary, when we look at the Pr(>|t|) values, the variables for
 
 ## Summary Statistics on Suspension Coils
 If you look at the total summary of all the lots, the variance is 69.3 pounds per square inch (PSI) . This is comfotably under the 100 PSI threshold. When you look at the lot summary the variance is 1.0 PSI and 7.5 PSI for lots 1 and 2, respectively. However, when you look at lot 3 the variance is 170.3 PSI which is well above the 100 PSI maximum. So, in conclusion, the vehicles in lot 3 do not meet the design specification, but all of the other lots do.
+
+## T-Tests on Suspension Coils
+Looking at the first T-Test we ran where we tested the PSI across all manufacturing lots to see if the PSI was statistically different from the population mean of 1,500 PSI. As you can see below, the mean of all three lots was 1,498.78 PSI along with a p-value of 0.06028. Therefore, we cannot reject the null hypothesis and say the mean across all three lots is statistically different than 1,500 PSI. Here are the results of the t-test:
+![](Resourses/All_Lots.PNG)
